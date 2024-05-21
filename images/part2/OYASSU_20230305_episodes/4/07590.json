@@ -1,0 +1,554 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "queen-tower1",
+      "points": [
+        [
+          66.44827586206895,
+          165.51724137931035
+        ],
+        [
+          158.8620689655172,
+          266.2068965517241
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar1",
+      "points": [
+        [
+          65.06896551724137,
+          139.31034482758622
+        ],
+        [
+          158.17241379310343,
+          168.27586206896552
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar1",
+      "points": [
+        [
+          407.1379310344828,
+          138.6206896551724
+        ],
+        [
+          501.6206896551724,
+          166.89655172413794
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower1_attack",
+      "points": [
+        [
+          406.44827586206895,
+          165.51724137931035
+        ],
+        [
+          502.3103448275862,
+          266.89655172413796
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "king-tower1_freeze",
+      "points": [
+        [
+          227.13082118734448,
+          46.03270529683613
+        ],
+        [
+          338.854959118379,
+          186.72236046924994
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower0_attack",
+      "points": [
+        [
+          63.65452726657807,
+          637.3364928909954
+        ],
+        [
+          157.8817450790298,
+          740.2674830808894
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower0_attack",
+      "points": [
+        [
+          407.48979591836735,
+          637.071142475682
+        ],
+        [
+          502.31034482758616,
+          739.5778279084758
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar0",
+      "points": [
+        [
+          65.88785046728971,
+          691.5887850467288
+        ],
+        [
+          158.87850467289718,
+          712.1495327102803
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar0",
+      "points": [
+        [
+          409.0696686491079,
+          691.0206032285471
+        ],
+        [
+          498.9090909090909,
+          714.1931818181819
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "king-tower0_freeze",
+      "points": [
+        [
+          219.55172413793102,
+          709.6551724137931
+        ],
+        [
+          343.6896551724138,
+          844.1379310344828
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "zappy1_attack",
+      "points": [
+        [
+          117.85074051241904,
+          514.6952572750743
+        ],
+        [
+          163.36538344004035,
+          556.3831379753163
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "zappy1_attack",
+      "points": [
+        [
+          81.5519231906166,
+          504.69684741578595
+        ],
+        [
+          127.45433608430051,
+          549.36634890442
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "musketeer0_attack",
+      "points": [
+        [
+          58.84934829430485,
+          618.9318611341656
+        ],
+        [
+          104.63271573712383,
+          668.4142068239623
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "royal-hog1_attack",
+      "points": [
+        [
+          406.34189825868776,
+          553.3205138274523
+        ],
+        [
+          438.9113300492611,
+          598.4926108374385
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "royal-hog1_attack",
+      "points": [
+        [
+          304.05316144314867,
+          592.9266126093294
+        ],
+        [
+          355.05177296122696,
+          631.376625727637
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "hog-rider0_attack",
+      "points": [
+        [
+          467.1872612595744,
+          276.37903549056824
+        ],
+        [
+          520.6679733573858,
+          334.5052383265108
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "cannon0_attack",
+      "points": [
+        [
+          354.4715447154472,
+          582.1138211382114
+        ],
+        [
+          428.94076655052265,
+          662.8780487804878
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar1",
+      "points": [
+        [
+          322.1416305198038,
+          528.2936228934083
+        ],
+        [
+          376.4273448055181,
+          546.3888609886466
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar1",
+      "points": [
+        [
+          393.80597134324114,
+          519.2144234871648
+        ],
+        [
+          448.0916856289554,
+          537.3096615824031
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar0",
+      "points": [
+        [
+          46.40099355154028,
+          611.2124033898239
+        ],
+        [
+          100.1438839132204,
+          628.0823710440494
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "royal-hog1_attack",
+      "points": [
+        [
+          325.4943387453503,
+          567.1368408816728
+        ],
+        [
+          375.194663091417,
+          604.4434502098931
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar1",
+      "points": [
+        [
+          303.64103831863764,
+          555.1214745697931
+        ],
+        [
+          357.9267526043519,
+          573.2167126650314
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar1",
+      "points": [
+        [
+          359.6689628813199,
+          531.4721487680439
+        ],
+        [
+          413.95467716703416,
+          549.5673868632822
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar0",
+      "points": [
+        [
+          467.3121697793869,
+          253.84450789258938
+        ],
+        [
+          519.1640216312386,
+          270.6795247276066
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar0",
+      "points": [
+        [
+          356.52941176470586,
+          566.9117647058823
+        ],
+        [
+          427.4852941176471,
+          583.0882352941176
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text",
+      "points": [
+        [
+          69.42857142857146,
+          451.8095238095238
+        ],
+        [
+          217.04761904761907,
+          481.3333333333333
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "elixir",
+      "points": [
+        [
+          126.76294489411242,
+          471.4372277572744
+        ],
+        [
+          162.5,
+          508.6219211822662
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ice-spirit0_deploy",
+      "points": [
+        [
+          127.65966293380643,
+          526.4053110100899
+        ],
+        [
+          159.91379310344828,
+          552.9568965517241
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar1",
+      "points": [
+        [
+          428.5211267605634,
+          235.14788732394365
+        ],
+        [
+          480.63380281690144,
+          250.64084507042253
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "goblin-cage1_freeze",
+      "points": [
+        [
+          414.4366197183099,
+          245.7112676056338
+        ],
+        [
+          493.3098591549296,
+          334.7957746478873
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "clock",
+      "points": [
+        [
+          435.88461538461536,
+          288.38461538461536
+        ],
+        [
+          474.34615384615387,
+          331.97435897435895
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "royal-hog1_attack",
+      "points": [
+        [
+          375.8571428571429,
+          569.4285714285714
+        ],
+        [
+          401.96551724137936,
+          606.3743842364534
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "07590.jpg",
+  "imageData": null,
+  "imageHeight": 896,
+  "imageWidth": 566
+}

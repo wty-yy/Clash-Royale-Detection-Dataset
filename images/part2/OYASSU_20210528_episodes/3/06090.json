@@ -1,0 +1,470 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "king-tower0",
+      "points": [
+        [
+          221.21493530273438,
+          698.3087158203125
+        ],
+        [
+          344.6636047363281,
+          835.71728515625
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9899256825447083",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower0",
+      "points": [
+        [
+          70.7185287475586,
+          632.1787109375
+        ],
+        [
+          162.12612915039062,
+          732.5439453125
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9850620627403259",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "king-tower1",
+      "points": [
+        [
+          229.13851928710938,
+          37.989845275878906
+        ],
+        [
+          338.2742614746094,
+          180.5784912109375
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9826384782791138",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "text0",
+      "points": [
+        [
+          287.1358337402344,
+          416.3967590332031
+        ],
+        [
+          438.0748596191406,
+          453.3704528808594
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9796213507652283",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower0",
+      "points": [
+        [
+          405.10888671875,
+          631.8639526367188
+        ],
+        [
+          496.03692626953125,
+          732.9829711914062
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9795604944229126",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "clock0",
+      "points": [
+        [
+          530.755859375,
+          536.6145629882812
+        ],
+        [
+          568.0,
+          582.9778442382812
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9749051928520203",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "clock1",
+      "points": [
+        [
+          402.614990234375,
+          552.517578125
+        ],
+        [
+          441.60980224609375,
+          598.7557373046875
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9737802743911743",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar1",
+      "points": [
+        [
+          408.5184326171875,
+          137.8083038330078
+        ],
+        [
+          494.97393798828125,
+          167.21934509277344
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9650182127952576",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "barbarian1",
+      "points": [
+        [
+          92.05682373046875,
+          475.78509521484375
+        ],
+        [
+          147.45358276367188,
+          519.1712036132812
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9533814787864685",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar1",
+      "points": [
+        [
+          68.09115600585938,
+          138.44503784179688
+        ],
+        [
+          160.70481872558594,
+          167.86148071289062
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9499765634536743",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar0",
+      "points": [
+        [
+          68.2682876586914,
+          672.9989624023438
+        ],
+        [
+          163.42092895507812,
+          698.5092163085938
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9294593930244446",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower1",
+      "points": [
+        [
+          71.36973571777344,
+          159.91302490234375
+        ],
+        [
+          160.6480255126953,
+          262.5760192871094
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9289920926094055",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar0",
+      "points": [
+        [
+          406.73663330078125,
+          672.818115234375
+        ],
+        [
+          495.37237548828125,
+          698.7034912109375
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9247531294822693",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar1",
+      "points": [
+        [
+          293.6473083496094,
+          490.9027099609375
+        ],
+        [
+          351.0246276855469,
+          510.01165771484375
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9211275577545166",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower1",
+      "points": [
+        [
+          410.43597412109375,
+          165.08218383789062
+        ],
+        [
+          495.31671142578125,
+          261.8604736328125
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9073764681816101",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "musketeer0",
+      "points": [
+        [
+          494.0032958984375,
+          630.0134887695312
+        ],
+        [
+          535.927490234375,
+          687.2394409179688
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9073454737663269",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "king-tower-bar1",
+      "points": [
+        [
+          212.5874125874126,
+          1.3986013986013988
+        ],
+        [
+          354.54545454545456,
+          38.46153846153846
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "golemite1",
+      "points": [
+        [
+          226.5233644859813,
+          557.4766355140187
+        ],
+        [
+          289.7458662832495,
+          608.2516175413372
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "golemite1",
+      "points": [
+        [
+          281.3384490598177,
+          570.4104851072022
+        ],
+        [
+          354.0934579439252,
+          634.5794392523364
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mega-minion1",
+      "points": [
+        [
+          304.1727509778357,
+          518.9061277705346
+        ],
+        [
+          358.5826015456299,
+          579.5897633469023
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "baby-dragon1",
+      "points": [
+        [
+          395.30685920577616,
+          415.87003610108303
+        ],
+        [
+          459.5866731934162,
+          478.3730955148993
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "elite-barbarian1",
+      "points": [
+        [
+          442.0470702582616,
+          462.636212163288
+        ],
+        [
+          494.2238267148014,
+          510.09386281588445
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "elite-barbarian1",
+      "points": [
+        [
+          480.0295751180229,
+          459.2690919189114
+        ],
+        [
+          534.2960288808664,
+          506.8447653429603
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "bar1",
+      "points": [
+        [
+          301.271186440678,
+          558.8050847457627
+        ],
+        [
+          355.93220338983053,
+          575.7542372881356
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "elixir0",
+      "points": [
+        [
+          350.75392670157066,
+          471.69109947643983
+        ],
+        [
+          373.79057591623035,
+          500.4869109947644
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ice-golem0",
+      "points": [
+        [
+          347.3781919216739,
+          466.19371727748694
+        ],
+        [
+          399.21065265465813,
+          511.4816753926702
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "rage1",
+      "points": [
+        [
+          259.62189054726366,
+          440.78606965174134
+        ],
+        [
+          568.0,
+          698.497512437811
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "06090.jpg",
+  "imageData": null,
+  "imageHeight": 896,
+  "imageWidth": 568,
+  "flag": {}
+}

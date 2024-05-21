@@ -1,0 +1,335 @@
+{
+  "version": "5.4.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "king-tower1",
+      "points": [
+        [
+          228.57969665527344,
+          26.324050903320312
+        ],
+        [
+          338.3873291015625,
+          177.1299591064453
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9797",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dagger-duchess-tower1",
+      "points": [
+        [
+          62.03396371694711,
+          126.76109959528995
+        ],
+        [
+          158.4230769230769,
+          258.0
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9790",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "king-tower0",
+      "points": [
+        [
+          232.44056701660156,
+          708.39697265625
+        ],
+        [
+          338.504638671875,
+          842.932861328125
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9728",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dagger-duchess-tower1",
+      "points": [
+        [
+          411.28213735727167,
+          126.99476740910458
+        ],
+        [
+          513.0384615384615,
+          257.2307692307692
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9726",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "bar-level1",
+      "points": [
+        [
+          87.04939270019531,
+          436.97332763671875
+        ],
+        [
+          109.36524963378906,
+          460.47528076171875
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9699",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "cannoneer-tower0",
+      "points": [
+        [
+          407.65185546875,
+          623.254150390625
+        ],
+        [
+          510.1778564453125,
+          739.57421875
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9593",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tower-bar1",
+      "points": [
+        [
+          60.62860107421875,
+          91.19842529296875
+        ],
+        [
+          156.72845458984375,
+          121.85317993164062
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9556",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tower-bar1",
+      "points": [
+        [
+          411.8096923828125,
+          91.5616683959961
+        ],
+        [
+          508.2451171875,
+          121.8416519165039
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9548",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "cannoneer-tower0",
+      "points": [
+        [
+          60.73076923076922,
+          611.4615384615385
+        ],
+        [
+          160.97506713867188,
+          739.3824462890625
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9396",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tower-bar0",
+      "points": [
+        [
+          413.4761962890625,
+          673.8572387695312
+        ],
+        [
+          508.084716796875,
+          699.8148803710938
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9283",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "tower-bar0",
+      "points": [
+        [
+          62.56065368652344,
+          673.3565673828125
+        ],
+        [
+          158.0148162841797,
+          699.91162109375
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9240",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "bar1",
+      "points": [
+        [
+          107.78005981445312,
+          442.87017822265625
+        ],
+        [
+          145.61019897460938,
+          455.32989501953125
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9225",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "musketeer0",
+      "points": [
+        [
+          164.0261746920072,
+          486.4485919658954
+        ],
+        [
+          230.5634061373197,
+          547.1912372295673
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.8692",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "bar-level0",
+      "points": [
+        [
+          180.26673889160156,
+          471.49609375
+        ],
+        [
+          197.83607482910156,
+          491.2552490234375
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.8270",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "bar0",
+      "points": [
+        [
+          195.16055297851562,
+          476.20489501953125
+        ],
+        [
+          233.10281372070312,
+          488.02935791015625
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.8185",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "battle-ram-evolution1",
+      "points": [
+        [
+          82.83240567720853,
+          455.6536771334135
+        ],
+        [
+          151.11538461538458,
+          576.0769230769231
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.7379",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dagger-duchess-tower-bar1",
+      "points": [
+        [
+          437.0898639393804,
+          73.29533687589787
+        ],
+        [
+          506.5553062411702,
+          87.47711564571108
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "dagger-duchess-tower-bar1",
+      "points": [
+        [
+          84.30003016222152,
+          73.92616889353727
+        ],
+        [
+          155.5607080528547,
+          87.60252078158744
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "01425.jpg",
+  "imageData": null,
+  "imageHeight": 896,
+  "imageWidth": 568,
+  "flag": {}
+}

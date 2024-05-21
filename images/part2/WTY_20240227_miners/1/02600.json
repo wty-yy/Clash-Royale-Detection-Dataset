@@ -1,0 +1,198 @@
+{
+  "version": "5.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "king-tower1",
+      "points": [
+        [
+          231.6591796875,
+          46.01641845703125
+        ],
+        [
+          336.77276611328125,
+          180.2411651611328
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9697402119636536",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar1",
+      "points": [
+        [
+          408.3208312988281,
+          143.77223205566406
+        ],
+        [
+          495.7560119628906,
+          172.7496795654297
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9475467801094055",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar1",
+      "points": [
+        [
+          61.3868293762207,
+          143.03927612304688
+        ],
+        [
+          151.8369140625,
+          173.178466796875
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.9340802431106567",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "king-tower-bar0",
+      "points": [
+        [
+          212.99734497070312,
+          836.1492309570312
+        ],
+        [
+          354.7723083496094,
+          875.0498657226562
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.8205453753471375",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "king-tower0",
+      "points": [
+        [
+          214.9703356014785,
+          708.2206046811996
+        ],
+        [
+          349.05376344086017,
+          840.4731182795699
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower0",
+      "points": [
+        [
+          64.41718109941061,
+          630.605310490701
+        ],
+        [
+          151.2566371681416,
+          732.2920353982302
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower0",
+      "points": [
+        [
+          415.13562966246104,
+          630.908203125
+        ],
+        [
+          502.14159292035396,
+          737.1592920353983
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar0",
+      "points": [
+        [
+          410.8737088093715,
+          684.9810110446625
+        ],
+        [
+          506.1238938053097,
+          710.1681415929204
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "tower-bar0",
+      "points": [
+        [
+          60.5648025242628,
+          686.5440673828125
+        ],
+        [
+          153.02654867256638,
+          708.8407079646018
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower1",
+      "points": [
+        [
+          63.14639019709763,
+          168.77378697549145
+        ],
+        [
+          147.33106732112117,
+          261.95573277627267
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.8803912401199341",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "queen-tower1",
+      "points": [
+        [
+          412.37531764532935,
+          167.55345695249497
+        ],
+        [
+          499.94733912970435,
+          265.5667931341355
+        ]
+      ],
+      "group_id": null,
+      "description": "confidence: 0.8120461702346802",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "02600.jpg",
+  "imageData": null,
+  "imageHeight": 896,
+  "imageWidth": 568,
+  "flag": {}
+}
