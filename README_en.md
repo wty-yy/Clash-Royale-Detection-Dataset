@@ -6,6 +6,8 @@
 ## Overview
 ### Sliced Dataset
 This dataset collects a total of 154 categories (see [`label_list.py`](https://github.com/wty-yy/KataCR/blob/master/katacr/constants/label_list.py) for all sliced names), totaling 4654 slices, used to create generative datasets.
+![Slice size distribution](./asserts/segment_size_en.png)
+
 <div align="center">
     <img src="images/segment/archer/archer_1_0000007.png" width="10%"/>
     <img src="images/segment/archer/archer_1_0000009.png" width="10%"/>

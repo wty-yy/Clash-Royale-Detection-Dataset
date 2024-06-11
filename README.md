@@ -6,6 +6,8 @@
 ## 效果
 ### 切片数据集
 本数据集收集了总共154个类别（全部切片名称请见[`label_list.py`](https://github.com/wty-yy/KataCR/blob/master/katacr/constants/label_list.py)），总计4654个切片，用于制作生成式数据集。
+![数据切片大小分布](./asserts/segment_size.png)
+
 <div align="center">
     <img src="images/segment/archer/archer_1_0000007.png" width="10%"/>
     <img src="images/segment/archer/archer_1_0000009.png" width="10%"/>
